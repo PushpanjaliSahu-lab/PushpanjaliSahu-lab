@@ -100,16 +100,17 @@ Here are some areas I am exploring through hands-on practice:
 
 ---
 
+
 ## 📚 Currently Learning
 
-- AWS Cloud Services (EC2, S3, IAM)
-- Linux Server Administration
-- Cloud Networking Fundamentals
-- Virtualization and Infrastructure Management
-- Artificial Intelligence Fundamentals
-- Prompt Engineering and AI Tools
-- Git, GitHub, and Version Control
-
+- 🖥️ **IT Support & Service Desk:** Ticket Management, Incident Management, Troubleshooting, and User Support.
+- 💻 **Operating Systems:** Windows, Linux, Kali Linux, and Ubuntu Administration.
+- 🌐 **Networking:** IPv4, IPv6, TCP/IP, DNS, DHCP, and Basic Network Troubleshooting.
+- 🔧 **Computer Hardware:** PC Components, Hardware Installation, Maintenance, and Troubleshooting.
+- ☁️ **Cloud Computing:** AWS EC2, S3, IAM, and Cloud Infrastructure.
+- ⚙️ **Virtualization:** VMware and Virtual Machine Management.
+- 🤖 **AI & Automation:** AI Fundamentals, Prompt Engineering, and Python Basics.
+- 🛠️ **Tools:** Git, GitHub, Linux Terminal, and Bash.
 ---
 
 ## 📊 GitHub Statistics
