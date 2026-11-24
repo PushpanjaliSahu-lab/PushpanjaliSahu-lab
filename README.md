@@ -45,43 +45,42 @@ I enjoy learning new technologies, working on practical projects, and exploring 
 
 ---
 
+
 ## 🛠️ Technical Skills & Technologies
 
-### ☁️ Cloud Platforms & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
+### ☁️ Cloud & Virtualization
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux" height="35" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+### 💻 Operating Systems & IT Support
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" height="35" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-Security-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20Support-Service%20Desk-245B8F?style=flat-square" />
 </p>
 
-### 🐧 Operating Systems & Networking
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Red%20Hat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Networking-Basics-1f425f?style=for-the-badge" />
+### 🌐 Networking & Hardware
+<p>
+  <img src="https://img.shields.io/badge/IPv4%20%7C%20IPv6-Networking-167D9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-Network%20Protocols-286B8E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardware-Troubleshooting-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/DNS%20%7C%20DHCP-Network%20Services-477A52?style=flat-square" />
 </p>
 
 ### 🤖 AI & Programming
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-orange?style=for-the-badge" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="35" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-orange?style=flat-square" />
 </p>
 
-### ⚙️ Development Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### ⚙️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" height="35" />
 </p>
+
 
 ---
 
