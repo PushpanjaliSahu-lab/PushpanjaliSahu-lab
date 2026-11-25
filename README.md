@@ -33,31 +33,33 @@ I focus on practical, lab-based learning—setting up virtual machines, troubles
 
 ### 💻 Operating Systems & Virtualization
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" height="35" />
-  <img src="https://img.shields.io/badge/Windows%2010%20%7C%2011-OS%20Admin-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/CentOS-Linux-262577?style=flat-square&logo=centos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-Basics-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_10_%7C_11-0F172A?style=for-the-badge&logo=windows&logoColor=38BDF8" alt="Windows" />
+  <img src="https://img.shields.io/badge/Ubuntu-0F172A?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/CentOS-0F172A?style=for-the-badge&logo=centos&logoColor=A855F7" alt="CentOS" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=38BDF8" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/VMware-0F172A?style=for-the-badge&logo=vmware&logoColor=94A3B8" alt="VMware" />
 </p>
 
 ### 🔧 Computer Hardware & IT Service Desk
 <p>
-  <img src="https://img.shields.io/badge/PC%20Hardware-Components%20%26%20Troubleshooting-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/BIOS%20%7C%20Boot-Configuration-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/IT%20Service%20Desk-Ticketing%20%26%20Incident%20Support-245B8F?style=flat-square" />
+  <img src="https://img.shields.io/badge/PC_Hardware-0F172A?style=for-the-badge&logo=pcpartpicker&logoColor=38BDF8" alt="PC Hardware" />
+  <img src="https://img.shields.io/badge/BIOS_%26_Boot-0F172A?style=for-the-badge&logo=intel&logoColor=38BDF8" alt="BIOS" />
+  <img src="https://img.shields.io/badge/IT_Service_Desk-0F172A?style=for-the-badge&logo=zoho&logoColor=FACC15" alt="IT Service Desk" />
 </p>
 
 ### 🌐 Networking Fundamentals
 <p>
-  <img src="https://img.shields.io/badge/IPv4%20%7C%20IPv6-Addressing%20%26%20Subnetting-167D9A?style=flat-square" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-Protocols-286B8E?style=flat-square" />
-  <img src="https://img.shields.io/badge/DNS%20%7C%20DHCP-Network%20Basics-477A52?style=flat-square" />
+  <img src="https://img.shields.io/badge/IPv4_%7C_IPv6-0F172A?style=for-the-badge&logo=cisco&logoColor=38BDF8" alt="IPv4 IPv6" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=for-the-badge&logo=wireshark&logoColor=38BDF8" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/DNS_%7C_DHCP-0F172A?style=for-the-badge&logo=cloudflare&logoColor=F97316" alt="DNS DHCP" />
 </p>
 
 ### ⚙️ Version Control & CLI
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash" height="35" />
-  <img src="https://img.shields.io/badge/Windows%20CMD-CLI-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux_Bash-0F172A?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+  <img src="https://img.shields.io/badge/Windows_CMD-0F172A?style=for-the-badge&logo=windowsterminal&logoColor=38BDF8" alt="Windows CMD" />
 </p>
 
 ---
